@@ -1,4 +1,3 @@
-Term
 scissors
 bowl
 wheel
