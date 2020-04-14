@@ -21,3 +21,4 @@ Broiler
 clinical
 seafood
 Scallops
+Prawns
